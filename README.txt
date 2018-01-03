@@ -1,0 +1,1 @@
+This program uses pygame and plays Tetris. It was mostly coded for fun so it isn’t entirely finished nor is it sorted well. A screenshot is provided to show what it looks like 
